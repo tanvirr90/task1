@@ -1,0 +1,145 @@
+.navigation{
+  background-color: black;
+  height:120px;
+}
+nav{
+  background-color: #323232;
+  padding:10px;
+  top:15px;
+  left:20px;
+  width:1230px;
+}
+li{
+  padding:0 35px;
+  color:white;
+}
+ul{
+  padding-top:20px;
+}
+input{
+  background-color:black;
+  color:white;
+}
+a{
+  color:white;
+}
+img{
+  width:1260px;
+  padding:10px 20px;
+}
+h2{
+  text-align:center;
+  background-color:#323232;
+  color: white;
+}
+.container1{
+  width:1230px;
+  padding:10px 30px;
+  margin-left: 30px;
+  background-color: black;
+}
+.mobile{
+  background-color: #4895ef;
+  height:240px;
+  width:270px;
+  text-align: center;
+  padding-top: 20px;
+}
+.mobile-img{
+  position: relative;
+  height: 160px;
+  width:200px;
+  border-radius: 50%;
+  left:0px;
+
+}
+.mobiletext{
+  font-weight: bold;
+  color:white;
+}
+.washing{
+  background-color: #e0bb20;
+  height:240px;
+  width:270px;
+  text-align: center;
+  padding-top: 20px;
+}
+.washing-img{
+  position: relative;
+  height: 160px;
+  width:200px;
+  border-radius: 50%;
+  left:0px;
+
+}
+.washingtext{
+  font-weight: bold;
+  color:white;
+}
+.tv{
+  background-color: #007965;
+  height:240px;
+  width:270px;
+  text-align: center;
+  padding-top: 20px;
+}
+.tv-img{
+  position: relative;
+  height: 160px;
+  width:200px;
+  border-radius: 50%;
+  left:0px;
+}
+.tvtext{
+  font-weight: bold;
+  color:white;
+}
+.fridge{
+  background-color: #c70039;
+  height:240px;
+  width:270px;
+  text-align: center;
+  padding-top: 20px;
+}
+.fridge-img{
+  position: relative;
+  height: 160px;
+  width:200px;
+  border-radius: 50%;
+  left:0px;
+}
+.fridgetext{
+  font-weight: bold;
+  color:white;
+}
+
+td{
+  height: 50px;
+  padding:20px 10px;
+}
+.container2{
+  width:1230px;
+  padding:30px 30px;
+  margin-left: 30px;
+  background-color: black;
+}
+.bosch-img{
+    width:450px;
+    height:250px;
+
+}
+.siemens-img{
+  width:450px;
+  height:250px;
+}
+.text{
+  color:white;
+  padding:100px;
+}
+.boschandsiemens{
+  padding:30px 50px;
+}
+.products{
+  left:90px;
+  padding: 20px 200px;
+}
